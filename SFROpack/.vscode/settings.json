@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./NM01/solver/examples/1bcs"
+    ]
+}
