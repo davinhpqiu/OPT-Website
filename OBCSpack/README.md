@@ -1,4 +1,4 @@
-# 1BCSpack
+# OneBCSpack
 
 This package offers 2 solvers for 1-bit compressive sensing problems  
 based on algorithms proposed in the following 2 papers: 
@@ -14,5 +14,4 @@ based on algorithms proposed in the following 2 papers:
    SIAM Journal on Optimization, 31, 3184–3211, 2021.
 
 Please credit them if you use the code for your research.
-
 
